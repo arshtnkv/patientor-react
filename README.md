@@ -1,6 +1,6 @@
 # Patientor frontend:<br> Практический проект на React, TS
 
-URL: [test.ru](https://test.ru/)
+URL: [https://patientor-react.vercel.app](https://patientor-react.vercel.app/)
 <br>
 BACKEND: [https://github.com/arshtnkv/patientor-express](https://github.com/arshtnkv/patientor-express/)
 
